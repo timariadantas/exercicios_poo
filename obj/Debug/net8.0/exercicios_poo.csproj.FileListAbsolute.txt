@@ -1,0 +1,14 @@
+/home/mariadantas/exercicios_poo/bin/Debug/net8.0/exercicios_poo
+/home/mariadantas/exercicios_poo/bin/Debug/net8.0/exercicios_poo.deps.json
+/home/mariadantas/exercicios_poo/bin/Debug/net8.0/exercicios_poo.runtimeconfig.json
+/home/mariadantas/exercicios_poo/bin/Debug/net8.0/exercicios_poo.dll
+/home/mariadantas/exercicios_poo/bin/Debug/net8.0/exercicios_poo.pdb
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/exercicios_poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/exercicios_poo.AssemblyInfoInputs.cache
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/exercicios_poo.AssemblyInfo.cs
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/exercicios_poo.csproj.CoreCompileInputs.cache
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/exercicios_poo.dll
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/refint/exercicios_poo.dll
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/exercicios_poo.pdb
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/exercicios_poo.genruntimeconfig.cache
+/home/mariadantas/exercicios_poo/obj/Debug/net8.0/ref/exercicios_poo.dll
