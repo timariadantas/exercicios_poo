@@ -1,6 +1,6 @@
 # Programação Orientada a Objetos (POO)  Feito em Csharp
 
-A **Programação Orientada a Objetos (POO)** é um paradigma de programação que organiza o código em **objetos**, que representam entidades do mundo real ou conceitos do problema. Cada objeto possui **atributos** (dados) e **métodos** (funções ou comportamentos).
+A **Programação Orientada a Objetos (POO)** é um forma de organizar(código) de um programa usando **objetos**, que representam entidades do mundo real ou conceitos do problema. Cada objeto possui **atributos** (dados) e **métodos** (funções ou comportamentos).
 
 A POO facilita a **manutenção**, **reutilização** e **organização** do código.
 
