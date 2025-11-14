@@ -23,11 +23,16 @@ obs : os atributos private não pode ser acessado na classe filha , só o métod
 
   ### Abstração
 
-- **que é:** focar apenas no essencial, escondendo detalhes complexos.
+- **O que é:** focar apenas no essencial, escondendo detalhes complexos.
 Uma classe abstrata é um modelo incompleto.
 Ela define o que deve ser feito, mas não o como.
 
-**OBS: Código foi feito de forma simples pra compreensão,mas para boas práticas deverá ser feitos separadas em arquivos para melhor compreensão, o intuito é demostrar os pilares da POO**  
+### Interface
+- **O que é:** define o que deve existir , mas nao como deve ser feito , Um contrato.Parecido com abstract porém não possui métodos, e pode ter multi-implantação. (nesse codigo , não tem exemplos de Interface)
+
+
+- 
+**OBS: Código foi feito de forma simples para compreensão,mas para boas práticas deverá ser feitos separadas em arquivos, o intuito é demostrar os pilares da POO**  
 
 Maria Dantas 
 november, 2025
