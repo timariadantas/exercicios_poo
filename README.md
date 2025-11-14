@@ -27,7 +27,7 @@ obs : os atributos private não pode ser acessado na classe filha , só o métod
 Uma classe abstrata é um modelo incompleto.
 Ela define o que deve ser feito, mas não o como.
 
-**OBS: Código foi feito de forma simples pra compreensão, poŕem para boas práticas deverá ser feitos separadas em arquivos para melhor compreensão, o intuito é demostrar os pilares da POO**  
+**OBS: Código foi feito de forma simples pra compreensão,mas para boas práticas deverá ser feitos separadas em arquivos para melhor compreensão, o intuito é demostrar os pilares da POO**  
 
 Maria Dantas 
 november, 2025
